@@ -34,3 +34,30 @@ header {
     padding: 40px 20px;
     text-align: center;
 }
+
+.emoji-grande {
+    font-size: 80px;
+    margin-bottom: 200px;
+}
+
+h1 {
+    color:#2d6a4f;
+    font-size: 2.2rem;
+    margin: 0 0 10px;
+}
+
+section {
+    padding: 40px 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.secao-cinza {
+    background-color: #ffffff;
+    max-width: 100%;
+}
+
+.container-central {
+    max-width: 800px;
+    margin: 0 auto;
+}
